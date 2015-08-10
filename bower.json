@@ -1,0 +1,9 @@
+{
+  "name": "uniform",
+  "version": "1.0.0",
+  "authors": [
+    "Duong Truong <duongtd@sololab.net>"
+  ],
+  "main": "jquery.uniform.min.js",
+  "license": "MIT"
+}
